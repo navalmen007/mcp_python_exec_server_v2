@@ -1,5 +1,5 @@
 # Python安全沙箱执行工具 (Python Safe Sandbox Execution Tool)
-
+[![smithery badge](https://smithery.ai/badge/@611711Dark/mcp_python_exec_server)](https://smithery.ai/server/@611711Dark/mcp_python_exec_server)
 ## 中文文档
 
 ### 功能描述
