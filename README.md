@@ -1,6 +1,3 @@
-# Python安全沙箱执行工具 (Python Safe Sandbox Execution Tool)
-[![smithery badge](https://smithery.ai/badge/@611711Dark/mcp_python_exec_server)](https://smithery.ai/server/@611711Dark/mcp_python_exec_server)
-## 中文文档
 
 ### 功能描述
 这是一个安全的Python代码执行工具，通过MCP服务器提供安全的执行环境。用户可以通过该工具执行Python代码片段，并获取执行结果。该工具禁用了危险的内置函数和模块，以防止恶意代码执行。
