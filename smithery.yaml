@@ -1,20 +1,3 @@
-# Smithery configuration for MCP server using Docker
-# Docs: https://smithery.ai/docs/config#smitheryyaml
-
-name: mcp-playwright
+name: mcp-python-exec-server
 build: docker
 dockerfile: Dockerfile
-
-# Optional: environment variables for your container
-env:
-  PYTHONUNBUFFERED: "1"
-
-# Example configuration (JSON object passed to MCP)
-exampleConfig: {}
-
-# Command to run inside container (optional override)
-# If your Dockerfile already has CMD, this is not required
-# startCommand:
-#   type: stdio
-#   commandFunction: |-
-#     (config) => ({ command: 'python', args: ['FastMCP_server_python_exec.py'] })
